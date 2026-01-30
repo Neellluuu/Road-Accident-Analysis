@@ -1,0 +1,6 @@
+speed,weather,road_condition,vehicles_involved,seatbelt,severity
+80,Clear,Dry,1,Yes,Low
+120,Rain,Wet,2,No,High
+60,Fog,Wet,1,Yes,Medium
+100,Clear,Dry,3,No,High
+70,Rain,Wet,2,Yes,Medium
